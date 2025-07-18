@@ -73,11 +73,12 @@ Studios and platforms should focus on **Drama-Action hybrids** with runtimes aro
 | File | Description |
 |------|-------------|
 | `IMDb_EDA_Analysis.ipynb` | Full analysis notebook |
-| `Client_Insight_Card.pdf` | Business-style one-slide summary |
 | `README.md` | This file! Describing the workflow |
 
 ---
 
-##  Preview
+You can view and run the full project notebook here:  
+**[Open in Colab →](https://colab.research.google.com/drive/1mJjg4bCy_ImhfPuDn8LXjOrvRLuAu3c_?usp=sharing)**
 
-> This project was developed independently as part of a personal data storytelling portfolio.
+
+> 
